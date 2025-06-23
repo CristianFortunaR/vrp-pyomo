@@ -17,7 +17,7 @@ pip install -r requirements.txt
 3. Run the model:
 
 ```bash
-python vrp_model.py
+python model.py
 ```
 
 The solution will be saved at `results/solution.txt`.
