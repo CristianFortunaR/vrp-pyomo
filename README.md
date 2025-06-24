@@ -87,7 +87,7 @@ brew install cbc
 ### 3. Run the Optimization:
 
 ```bash
-python vrp_model.py
+python model.py
 ```
 
 The solution will be saved in:
