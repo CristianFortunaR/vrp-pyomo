@@ -17,7 +17,7 @@ The objective is to minimize the total distance traveled by a vehicle that start
   - The vehicle starts and ends at the depot
   - No subtours (via MTZ constraints)
 
-This type of problem is fundamental in **logistics**, **supply chain management**, and **transportation planning**, making it highly relevant for real-world decision-making environments like those handled by **Kpler**.
+This type of problem is fundamental in **logistics**, **supply chain management**, and **transportation planning**, making it highly relevant for real-world decision-making environments.
 
 ---
 
